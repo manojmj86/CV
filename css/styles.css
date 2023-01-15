@@ -8,3 +8,26 @@ hr {
     border-width: 5px;
     width: 10%;
 }
+h1 {
+    color: #FF6E31;
+    font-family: Verdana;
+}
+h3 {
+    color: #66BFBF;
+    font-family: 'Tahoma';
+}
+
+/* Class styles */
+.button {
+    background-color: gold;
+    font-family: Verdana;
+    border-radius: 20%;
+}
+
+/*  ID Selector Style  Specific items, use only when specific item needs to change.   */
+
+#heading {
+    color: gold;
+    font-family: 'Tahoma';
+
+}
